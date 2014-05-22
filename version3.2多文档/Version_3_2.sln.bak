@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Version_3_2", "Version_3_2\Version_3_2.csproj", "{FCA2E186-ED3A-42C7-ADE6-E9B782C04BC0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Version_3_2", "Version_3_0\Version_3_2.csproj", "{FCA2E186-ED3A-42C7-ADE6-E9B782C04BC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
